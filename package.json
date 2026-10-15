@@ -1,0 +1,8 @@
+{
+  "name": "auth-service-node",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Login, tokens and user profiles. Demo target for ProofPatch: intentionally contains security bugs.",
+  "license": "MIT",
+  "scripts": { "test": "node --test" }
+}
